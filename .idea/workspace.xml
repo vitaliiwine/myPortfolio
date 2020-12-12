@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5683ae7f-0c5a-48db-b8ab-7387c95e5fce" name="Default Changelist" comment="" />
+    <list default="true" id="5683ae7f-0c5a-48db-b8ab-7387c95e5fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="262" column="20" selection-start-line="262" selection-start-column="20" selection-end-line="262" selection-end-column="20" />
+            <state relative-caret-position="-3111">
+              <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -25,16 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
+            <state relative-caret-position="51204">
               <caret line="3012" column="24" selection-start-line="3012" selection-start-column="24" selection-end-line="3012" selection-end-column="24" />
-              <folding>
-                <element signature="e#35192#35447#2" expanded="true" />
-                <element signature="e#36139#36313#1" expanded="true" />
-                <element signature="e#36355#36610#1" expanded="true" />
-                <element signature="e#39308#39622#2" expanded="true" />
-                <element signature="e#40326#40500#1" expanded="true" />
-                <element signature="e#40542#40856#1" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -52,6 +46,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -60,40 +57,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="startbootstrap-freelancer-gh-pages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="startbootstrap-freelancer-gh-pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="startbootstrap-freelancer-gh-pages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="startbootstrap-freelancer-gh-pages" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="startbootstrap-freelancer-gh-pages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="startbootstrap-freelancer-gh-pages" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -128,15 +101,16 @@
       <workItem from="1607159046409" duration="1262000" />
       <workItem from="1607534725166" duration="87000" />
       <workItem from="1607603615665" duration="21356000" />
+      <workItem from="1607723937703" duration="436000" />
+      <workItem from="1607724493562" duration="1253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28795000" />
+    <option name="totallyTimeSpent" value="30484000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -161,40 +135,32 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/avataaars.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="3012" column="24" selection-start-line="3012" selection-start-column="24" selection-end-line="3012" selection-end-column="24" />
-          <folding>
-            <element signature="e#35192#35447#2" expanded="true" />
-            <element signature="e#36139#36313#1" expanded="true" />
-            <element signature="e#36355#36610#1" expanded="true" />
-            <element signature="e#39308#39622#2" expanded="true" />
-            <element signature="e#40326#40500#1" expanded="true" />
-            <element signature="e#40542#40856#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="-3111">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="262" column="20" selection-start-line="262" selection-start-column="20" selection-end-line="262" selection-end-column="20" />
+        <state relative-caret-position="51204">
+          <caret line="3012" column="24" selection-start-line="3012" selection-start-column="24" selection-end-line="3012" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
