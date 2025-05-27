@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5683ae7f-0c5a-48db-b8ab-7387c95e5fce" name="Default Changelist" comment="" />
+    <list default="true" id="5683ae7f-0c5a-48db-b8ab-7387c95e5fce" name="Default Changelist" comment="new updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -159,7 +162,7 @@
       <workItem from="1650624283125" duration="595000" />
       <workItem from="1693674066390" duration="2787000" />
       <workItem from="1693676917540" duration="998000" />
-      <workItem from="1748347711548" duration="594000" />
+      <workItem from="1748347711548" duration="2031000" />
     </task>
     <task id="LOCAL-00001" summary="New look">
       <created>1693676137653</created>
@@ -182,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693677642334</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new updates">
+      <option name="closed" value="true" />
+      <created>1748348590962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748348590962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -216,7 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New look" />
-    <option name="LAST_COMMIT_MESSAGE" value="New look" />
+    <MESSAGE value="new updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="new updates" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/avataaars.svg">
