@@ -111,14 +111,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Shelf.Project.Settings",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -171,6 +171,7 @@
       <workItem from="1693676917540" duration="998000" />
       <workItem from="1748347711548" duration="5510000" />
       <workItem from="1748365115754" duration="3098000" />
+      <workItem from="1748369564385" duration="2256000" />
     </task>
     <task id="LOCAL-00001" summary="New look">
       <created>1693676137653</created>
